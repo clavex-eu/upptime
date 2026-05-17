@@ -1,51 +1,31 @@
-owner: fcraviolatti
-repo: upptime
-user-agent: fcraviolatti
+# Change these first
+owner: upptime # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
 
 sites:
-  # Auth service — uses the liveness probe so we verify the Go binary is up
-  # and can respond, without depending on external services (DB/Redis not required).
-  - name: Auth (id.clavex.eu)
-    url: https://id.clavex.eu/healthz
-    slug: auth
-    maxResponseTime: 3000
-
-  # Auth readiness — includes DB + Redis connectivity, so this one can degrade
-  # independently from liveness. Track as a separate endpoint.
-  - name: Auth Readiness (id.clavex.eu)
-    url: https://id.clavex.eu/readyz
-    slug: auth-readyz
-    maxResponseTime: 5000
-
-  # Console frontend — static SPA served by nginx; 200 = nginx is alive.
-  - name: Console (console.clavex.eu)
-    url: https://console.clavex.eu
-    slug: console
-    maxResponseTime: 3000
-
-  # Docs site
-  - name: Docs (docs.clavex.eu)
-    url: https://docs.clavex.eu
-    slug: docs
-    maxResponseTime: 5000
+  - name: Google
+    url: https://www.google.com
+  - name: Wikipedia
+    url: https://en.wikipedia.org
+  - name: Hacker News
+    url: https://news.ycombinator.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  cname: status.clavex.eu
-  name: Clavex Status
-  logoUrl: https://raw.githubusercontent.com/fcraviolatti/clavex/main/logos/clavex-icon-teal.svg
-  theme: light
-  introTitle: "**Clavex** Service Status"
-  introMessage: >
-    Real-time uptime monitoring for all Clavex services.
-    Incidents are tracked automatically as GitHub Issues.
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  cname: demo.upptime.js.org
+  # baseUrl: /your-repo-name
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Upptime
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
-    - title: Clavex
-      href: https://clavex.eu
     - title: GitHub
-      href: https://github.com/fcraviolatti/clavex
+      href: https://github.com/$OWNER/$REPO
 
-commitMessages:
-  commitAuthorName: "Clavex Bot"
-  commitAuthorEmail: "bot@clavex.eu"
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
