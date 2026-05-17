@@ -1,0 +1,51 @@
+owner: fcraviolatti
+repo: upptime
+user-agent: fcraviolatti
+
+sites:
+  # Auth service — uses the liveness probe so we verify the Go binary is up
+  # and can respond, without depending on external services (DB/Redis not required).
+  - name: Auth (id.clavex.eu)
+    url: https://id.clavex.eu/healthz
+    slug: auth
+    maxResponseTime: 3000
+
+  # Auth readiness — includes DB + Redis connectivity, so this one can degrade
+  # independently from liveness. Track as a separate endpoint.
+  - name: Auth Readiness (id.clavex.eu)
+    url: https://id.clavex.eu/readyz
+    slug: auth-readyz
+    maxResponseTime: 5000
+
+  # Console frontend — static SPA served by nginx; 200 = nginx is alive.
+  - name: Console (console.clavex.eu)
+    url: https://console.clavex.eu
+    slug: console
+    maxResponseTime: 3000
+
+  # Docs site
+  - name: Docs (docs.clavex.eu)
+    url: https://docs.clavex.eu
+    slug: docs
+    maxResponseTime: 5000
+
+status-website:
+  cname: status.clavex.eu
+  name: Clavex Status
+  logoUrl: https://raw.githubusercontent.com/fcraviolatti/clavex/main/logos/clavex-icon-teal.svg
+  theme: light
+  introTitle: "**Clavex** Service Status"
+  introMessage: >
+    Real-time uptime monitoring for all Clavex services.
+    Incidents are tracked automatically as GitHub Issues.
+  navbar:
+    - title: Status
+      href: /
+    - title: Clavex
+      href: https://clavex.eu
+    - title: GitHub
+      href: https://github.com/fcraviolatti/clavex
+
+commitMessages:
+  commitAuthorName: "Clavex Bot"
+  commitAuthorEmail: "bot@clavex.eu"
