@@ -1,7 +1,7 @@
 url: https://id.clavex.eu/healthz
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-19T19:25:04.430Z
+status: up
+code: 200
+responseTime: 576
+lastUpdated: 2026-05-19T21:01:25.933Z
 startTime: 2026-05-17T12:17:35.453Z
 generator: Upptime <https://github.com/upptime/upptime>
