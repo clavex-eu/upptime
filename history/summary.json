@@ -4,19 +4,19 @@
     "url": "https://id.clavex.eu/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 665,
-    "timeDay": 615,
-    "timeWeek": 665,
-    "timeMonth": 665,
-    "timeYear": 665,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "93.31%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 643,
+    "timeDay": 596,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
     "dailyMinutesDown": {
-      "2026-05-19": 1
+      "2026-05-19": 96
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://id.clavex.eu/readyz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth-readyz",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 503,
-    "timeDay": 476,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "status": "up",
+    "uptime": "97.17%",
+    "uptimeDay": "93.32%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "97.17%",
+    "uptimeYear": "97.17%",
+    "time": 516,
+    "timeDay": 514,
+    "timeWeek": 516,
+    "timeMonth": 516,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2026-05-19": 1
+      "2026-05-19": 96
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://console.clavex.eu",
     "icon": "https://icons.duckduckgo.com/ip3/console.clavex.eu.ico",
     "slug": "console",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 599,
-    "timeDay": 632,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "93.34%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 589,
+    "timeDay": 596,
+    "timeWeek": 589,
+    "timeMonth": 589,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2026-05-19": 0
+      "2026-05-19": 96
     }
   },
   {
@@ -64,17 +64,19 @@
     "url": "https://docs.clavex.eu",
     "icon": "https://icons.duckduckgo.com/ip3/docs.clavex.eu.ico",
     "slug": "docs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 805,
-    "timeDay": 752,
-    "timeWeek": 805,
-    "timeMonth": 805,
-    "timeYear": 805,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.19%",
+    "uptimeDay": "93.35%",
+    "uptimeWeek": "97.19%",
+    "uptimeMonth": "97.19%",
+    "uptimeYear": "97.19%",
+    "time": 771,
+    "timeDay": 711,
+    "timeWeek": 771,
+    "timeMonth": 771,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2026-05-19": 96
+    }
   }
 ]
