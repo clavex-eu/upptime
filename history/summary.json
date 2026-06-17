@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 689,
-    "timeDay": 603,
-    "timeWeek": 609,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 681,
+    "timeDay": 402,
+    "timeWeek": 550,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2026-05-19": 96
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth-readyz",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 604,
-    "timeDay": 593,
-    "timeWeek": 592,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 597,
+    "timeDay": 392,
+    "timeWeek": 590,
+    "timeMonth": 597,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2026-05-19": 96
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 724,
-    "timeDay": 730,
-    "timeWeek": 758,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "time": 718,
+    "timeDay": 508,
+    "timeWeek": 697,
+    "timeMonth": 718,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2026-05-19": 96
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.78%",
-    "time": 858,
-    "timeDay": 1436,
-    "timeWeek": 907,
-    "timeMonth": 858,
-    "timeYear": 858,
+    "time": 861,
+    "timeDay": 936,
+    "timeWeek": 917,
+    "timeMonth": 861,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2026-05-19": 96
     }
