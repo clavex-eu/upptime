@@ -1,6 +1,6 @@
 # [📈 Live Status](https://status.clavex.eu): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [fcraviolatti](https://status.clavex.eu), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Clavex](https://clavex.eu), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/fcraviolatti/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/fcraviolatti/upptime/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/fcraviolatti/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/fcraviolatti/upptime/actions/workflows/response-time.yml)
