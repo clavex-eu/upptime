@@ -1,7 +1,7 @@
 url: https://id.clavex.eu/readyz
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2026-07-06T23:58:34.242Z
+status: down
+code: 502
+responseTime: 536
+lastUpdated: 2026-07-07T23:48:04.707Z
 startTime: 2026-05-17T12:17:36.275Z
 generator: Upptime <https://github.com/upptime/upptime>
