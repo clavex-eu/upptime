@@ -4,9 +4,9 @@
     "url": "https://id.clavex.eu/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.76%",
@@ -20,7 +20,8 @@
       "2026-07-03": 79,
       "2026-07-02": 16,
       "2026-07-08": 69,
-      "2026-07-07": 12
+      "2026-07-07": 12,
+      "2026-08-03": 0
     }
   },
   {
