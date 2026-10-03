@@ -4,10 +4,10 @@
     "url": "https://id.clavex.eu/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "96.30%",
     "uptimeYear": "98.75%",
     "time": 624,
@@ -25,7 +25,8 @@
       "2026-08-18": 31,
       "2026-09-08": 809,
       "2026-09-07": 288,
-      "2026-09-11": 524
+      "2026-09-11": 524,
+      "2026-10-03": 2
     }
   },
   {
@@ -33,12 +34,12 @@
     "url": "https://id.clavex.eu/readyz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth-readyz",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "98.76%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.31%",
-    "uptimeYear": "98.75%",
+    "uptimeYear": "98.76%",
     "time": 540,
     "timeDay": 386,
     "timeWeek": 483,
@@ -54,7 +55,8 @@
       "2026-08-18": 30,
       "2026-09-08": 809,
       "2026-09-07": 283,
-      "2026-09-11": 523
+      "2026-09-11": 523,
+      "2026-10-03": 1
     }
   },
   {
@@ -62,10 +64,10 @@
     "url": "https://console.clavex.eu",
     "icon": "https://icons.duckduckgo.com/ip3/console.clavex.eu.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "96.32%",
     "uptimeYear": "99.15%",
     "time": 717,
@@ -77,7 +79,8 @@
       "2026-05-19": 96,
       "2026-09-08": 809,
       "2026-09-07": 278,
-      "2026-09-11": 523
+      "2026-09-11": 523,
+      "2026-10-03": 1
     }
   },
   {
@@ -85,9 +88,9 @@
     "url": "https://docs.clavex.eu",
     "icon": "https://icons.duckduckgo.com/ip3/docs.clavex.eu.ico",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.33%",
     "uptimeYear": "99.15%",
@@ -100,7 +103,8 @@
       "2026-05-19": 96,
       "2026-09-08": 810,
       "2026-09-07": 274,
-      "2026-09-11": 522
+      "2026-09-11": 522,
+      "2026-10-03": 0
     }
   }
 ]
