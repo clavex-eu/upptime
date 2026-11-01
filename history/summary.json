@@ -4,17 +4,17 @@
     "url": "https://id.clavex.eu/healthz",
     "icon": "https://icons.duckduckgo.com/ip3/id.clavex.eu.ico",
     "slug": "auth",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "98.48%",
     "uptimeYear": "98.69%",
-    "time": 643,
-    "timeDay": 3305,
-    "timeWeek": 1273,
-    "timeMonth": 728,
-    "timeYear": 643,
+    "time": 644,
+    "timeDay": 2441,
+    "timeWeek": 1203,
+    "timeMonth": 733,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-05-19": 96,
       "2026-07-03": 79,
@@ -28,7 +28,7 @@
       "2026-09-11": 524,
       "2026-10-03": 399,
       "2026-10-16": 260,
-      "2026-11-01": 0
+      "2026-11-01": 7
     }
   },
   {
@@ -45,7 +45,7 @@
     "time": 536,
     "timeDay": 526,
     "timeWeek": 470,
-    "timeMonth": 516,
+    "timeMonth": 519,
     "timeYear": 536,
     "dailyMinutesDown": {
       "2026-05-19": 96,
@@ -76,7 +76,7 @@
     "time": 720,
     "timeDay": 841,
     "timeWeek": 648,
-    "timeMonth": 736,
+    "timeMonth": 738,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2026-05-19": 96,
@@ -101,7 +101,7 @@
     "time": 877,
     "timeDay": 1092,
     "timeWeek": 814,
-    "timeMonth": 822,
+    "timeMonth": 829,
     "timeYear": 877,
     "dailyMinutesDown": {
       "2026-05-19": 96,
