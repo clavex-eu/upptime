@@ -1,7 +1,7 @@
 url: https://id.clavex.eu/healthz
-status: degraded
+status: up
 code: 200
-responseTime: 6013
-lastUpdated: 2026-11-01T01:40:31.695Z
+responseTime: 714
+lastUpdated: 2026-11-01T01:47:40.741Z
 startTime: 2026-05-17T12:17:35.453Z
 generator: Upptime <https://github.com/upptime/upptime>
